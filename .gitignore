@@ -3,3 +3,5 @@
 ################################################################################
 
 /2.2/AspNetCoreWebApp/obj
+/2.2/AspNetCoreWebApp/bin/Debug/netcoreapp2.2
+/2.2/AspNetCoreWebApp/.vs/AspNetCoreWebApp/v16
